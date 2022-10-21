@@ -1,12 +1,13 @@
 ﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
 	<s:String x:Key="/Default/Environment/Highlighting/HighlightingSourceSnapshotLocation/@EntryValue">/Users/gianvittorio.castellano/Library/Caches/JetBrains/Rider2022.2/resharper-host/temp/Rider/vAny/CoverageData/_OddService.-1125315817/Snapshot/snapshot.utdcvr</s:String>
-	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=5626bec3_002D0a18_002D4f6b_002D99fa_002D58a79d5b2bff/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="isOddMethod_OddNumbers_ReturnsTrue #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=5626bec3_002D0a18_002D4f6b_002D99fa_002D58a79d5b2bff/@EntryIndexedValue">&lt;SessionState ContinuousTestingIsOn="False" ContinuousTestingMode="0" FrameworkVersion="{x:Null}" IsLocked="False" Name="isOddMethod_OddNumbers_ReturnsTrue #2" PlatformMonoPreference="{x:Null}" PlatformType="{x:Null}" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"&gt;
   &lt;TestAncestor&gt;
-    &lt;TestId&gt;xUnit::AD0549C3-30B2-4D79-A443-3F0008E8B977::net6.0::OddServiceTests.OddServiceTests&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::AD0549C3-30B2-4D79-A443-3F0008E8B977::.NETFramework,Version=v6.0::OddServiceTests.OddServiceTests&lt;/TestId&gt;
   &lt;/TestAncestor&gt;
 &lt;/SessionState&gt;</s:String>
-	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=b38e2144_002Dcddb_002D427a_002Db1db_002D31bccc66d64b/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="isOddMethod_OddNumbers_ReturnsTrue" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
-  &lt;TestAncestor&gt;
-    &lt;TestId&gt;xUnit::AD0549C3-30B2-4D79-A443-3F0008E8B977::net6.0::OddServiceTests.OddServiceTests&lt;/TestId&gt;
-  &lt;/TestAncestor&gt;
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=b38e2144_002Dcddb_002D427a_002Db1db_002D31bccc66d64b/@EntryIndexedValue">&lt;SessionState ContinuousTestingIsOn="False" ContinuousTestingMode="0" FrameworkVersion="{x:Null}" IsLocked="False" Name="isOddMethod_OddNumbers_ReturnsTrue" PlatformMonoPreference="{x:Null}" PlatformType="{x:Null}" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"&gt;
+  &lt;Project Location="/Users/gianvittorio.castellano/Documents/Gianvittorio/Projects/CSTDD/AddingTestSupportToDotNet/OddService/OddService/OddServiceTests" Presentation="&amp;lt;OddServiceTests&amp;gt;" /&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=b3a8612d_002D7cca_002D4b36_002Dbf97_002D671fb5f07c2c/@EntryIndexedValue">&lt;SessionState ContinuousTestingIsOn="False" ContinuousTestingMode="0" FrameworkVersion="{x:Null}" IsLocked="False" Name="All tests from OddServiceTests.cs" PlatformMonoPreference="{x:Null}" PlatformType="{x:Null}" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"&gt;
+  &lt;ProjectFile&gt;AD0549C3-30B2-4D79-A443-3F0008E8B977/f:OddServiceTests.cs&lt;/ProjectFile&gt;
 &lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
